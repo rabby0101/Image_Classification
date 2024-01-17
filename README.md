@@ -1,3 +1,6 @@
+Image Classification
+
+
 Image classification is a task of assigning a label to an image from a predefined set of categories. For example, given an image of a flower, the task is to identify which type of flower it is. Image classification is one of the most common and fundamental problems in computer vision and machine learning.
 
 To perform image classification, we need to use a model that can learn from a large amount of labeled images and extract meaningful features from them. A popular and powerful model for image classification is a deep neural network, which consists of multiple layers of processing units that can learn complex and non-linear patterns from data. Deep neural networks have achieved state-of-the-art results on many image classification benchmarks, such as ImageNet, CIFAR-10, and MNIST.
